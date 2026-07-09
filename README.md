@@ -11,11 +11,11 @@
 📚 Continuously improving my technical skills through learning and project development
 
 ## Skills
-- Java
-- Python
+- Java (Basic)
+- Python (Basic)
 - Git & GitHub
 - Problem Solving
-- Software Development
+- Software Development 
 
 ## Current Goals
 - Build real-world software projects
